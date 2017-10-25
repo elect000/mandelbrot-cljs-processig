@@ -14,3 +14,8 @@ Copyright © 2016 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+## 問題
+やたら速度が遅いので、ここで開発を終了しています。より速いコードがあれば、是非Issueなどで教えてください。
+It is too slow, so I finish Development...
+If you know more fast code or idea, please notice me at this "issue" or "e.tmailbank At gmail.com" or etc...
